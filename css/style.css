@@ -85,3 +85,20 @@ li{
     padding: 5px;
 }
 
+.entity{
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 10px;
+}
+
+.check{
+   color: rgb(14, 237, 14);
+   border: 1px solid; 
+}
+
+.delete{
+    color: red;
+    border: 1px solid;
+}
+
