@@ -78,6 +78,7 @@ hr{
 
 ul{
     padding: 20px;
+    list-style-type: none;
 }
 
 li{
