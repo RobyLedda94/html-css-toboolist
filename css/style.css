@@ -77,12 +77,13 @@ hr{
 }
 
 ul{
-    padding: 20px;
+    padding: 15px;
     list-style-type: none;
 }
 
 li{
     padding: 5px;
+    margin: 10px;
 }
 
 
@@ -108,5 +109,37 @@ h3{
 .delete{
     color: red;
     border: 1px solid;
+}
+
+.rectangle{
+    margin-left: 5px;
+    padding: 8px;
+    border-radius: 15px;
+    font-size: 13px;
+    color: white;
+}
+
+.light_blue{
+    background-color: rgb(19, 91, 225);
+}
+
+.purple{
+    background-color: purple;
+}
+
+.green_light{
+    background-color: rgb(44, 194, 97);
+}
+
+.orange{
+    background-color: rgb(255, 102, 0);
+}
+
+.violet{
+    background-color: rgb(200, 72, 127);
+}
+
+.green{
+    background-color: green;
 }
 
