@@ -85,6 +85,14 @@ li{
     padding: 5px;
 }
 
+
+h3{
+    display: inline-block;
+    margin-left: 5px;
+}
+
+
+
 .entity{
     margin-right: 10px;
     padding: 5px;
