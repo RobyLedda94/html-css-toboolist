@@ -4,3 +4,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+/* css header */
+
+header{
+    height: 70px;
+    line-height: 2;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.center{
+    vertical-align: middle;
+}
+
+.title{
+    display: inline-block;
+}
