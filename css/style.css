@@ -31,20 +31,41 @@ header{
 
 /* css main  */
 
-
+main{
+    padding: 40px;
+}
 
 .container{
     width: 1200px;
     margin: auto;
-    padding: 40px;
+    border-radius: 5px;
     background-color: white;
 }
 
 .botton{
     display: inline-block;
     padding: 10px;
+    margin-top: 30px;
+    border-radius: 5px;    
+    text-align: center;
+    font-weight: bold;
 }
 
 .blue{
+    width: 110px;
+    margin-left: 30px;
     background-color: rgb(35, 149, 255);
+    color: white;           
 }
+
+.gray{
+    width: 120px;
+    color: rgb(142, 141, 141);
+    border: 1px solid;
+}
+
+hr{
+    width: 100%;
+    margin-top: 20px;
+}
+
