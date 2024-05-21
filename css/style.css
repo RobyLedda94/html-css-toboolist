@@ -70,13 +70,17 @@ hr{
 }
 
 
-/* css main liss */
+/* css main list */
 
 .list{
     padding: 50px;
 }
 
 ul{
-    padding: 30px;
+    padding: 20px;
+}
+
+li{
+    padding: 5px;
 }
 
